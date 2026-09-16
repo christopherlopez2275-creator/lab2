@@ -1,1 +1,5 @@
-1106 lab 2 
+# lab 2 
+## test 
+## How to run:
+## Learned github stuff
+## Future improvements:
